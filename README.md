@@ -37,7 +37,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **Laravel**, **
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [Ángel Marqués](https://www.linkedin.com/in/angel-marques/)
+- LinkedIn: [Ángel Marqués](https://www.linkedin.com/in/angelmarques/)
 - GitHub: [@angel-forge](https://github.com/angel-forge)
 
 Feel free to reach out if you want to collaborate or just chat about tech, programming, or business ideas!
