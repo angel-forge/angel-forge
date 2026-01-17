@@ -33,6 +33,8 @@ I'm a passionate **Full Stack Developer** with a strong focus on **Laravel**, **
 
 ### 🎯 GitHub Stats
 
+<div align="center">
+
 ![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-forge&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-forge&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,6 +42,8 @@ I'm a passionate **Full Stack Developer** with a strong focus on **Laravel**, **
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angel-forge&theme=radical)
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angel-forge&theme=radical) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angel-forge&theme=radical)
+
+</div>
 
 ---
 
